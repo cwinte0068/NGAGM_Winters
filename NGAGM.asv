@@ -1,5 +1,5 @@
-classdef untitled
-    %UNTITLED Summary of this class goes here
+classdef NGAGM
+    % This is an 
     %   Detailed explanation goes here
     
     properties
